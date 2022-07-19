@@ -1,0 +1,9 @@
+D: How to use this webapp,2022-03-30 13:03:00,2022-03-30 13:03:00,From the main menu you can choose three options: index~~~ add note and search for note. If you decide to delete all these notes that I have entered this webapp will still work.
+The following notes will have more details
+DO NOT DELETE the notes.csv file in the data folder.,text,B: How to use this webapp part 2,2022-03-30 13:03:44,2022-03-30 13:03:44,When adding a note you cannot leave either one of the fields empty~~~ otherwise no note will be added.
+If your note title contains characters that are not a member of:
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-._~:/?#[]@!$&'()*+~~~;=
+they will be removed.
+If your contents consists of ONLY a URL/ image URL and nothing more~~~ when viewing it~~~ the contents will be hyperlinked
+,text,A: How to use this webapp part 3,2022-03-30 13:03:04,2022-03-30 14:03:29,This is an edited note. Meaning that if you select sort by edited~~~ this note should come to the top
+Final note. Try to avoid using back arrow navigation on the page after editing a page and especially after deleting a page,text,URL test,2022-03-30 13:03:41,2022-03-30 13:03:41,https://moodle.ucl.ac.uk/my/,URL,C: URL image example,2022-03-30 13:03:39,2022-03-30 13:03:39,http://www0.cs.ucl.ac.uk/people/photos/G.Roberts.jpg,URL,
